@@ -10,5 +10,9 @@ Emotion Detection from Speech
 This project uses the Interactive Emotional Dyadic Motion Capture (IEMOCAP) database.
 https://sail.usc.edu/iemocap/iemocap_release.htm
 
+data category is really imbanlanced.
+![oops!](https://github.com/junbohuang/HearYou/tree/master/figures/emotion_distribution.png)
+
+
 # Credentials 
 most part of the future codes are from https://github.com/littleowen/Conceptor
