@@ -11,7 +11,7 @@ This project uses the Interactive Emotional Dyadic Motion Capture (IEMOCAP) data
 https://sail.usc.edu/iemocap/iemocap_release.htm
 
 data category is really imbanlanced.
-![oops!](https://github.com/junbohuang/HearYou/tree/master/figures/emotion_distribution.png)
+![oops!](https://raw.githubusercontent.com/junbohuang/HearYou/tree/master/figures/emotion_distribution.png)
 
 
 # Credentials 
