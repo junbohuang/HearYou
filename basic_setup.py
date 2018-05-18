@@ -9,7 +9,7 @@ from infrastructure.helper_function import *
 
 def main():
     if not os.path.exists("./data/iemocap/wav_train/"):
-        split(train_perc = 0.85, val_perc = 0.10, test_perc = 0.05)
+        split(train_perc = 0.85, val_perc = 0.10)
     else: pass
 
     # loop through folders

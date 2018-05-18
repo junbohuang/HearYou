@@ -103,10 +103,9 @@ def check_emotion(prediction, label):
     else: pass
     return result
 
-def split(train_perc = 0.85, val_perc = 0.10, test_perc = 0.05):
+def split(train_perc = 0.85, val_perc = 0.10):
     emo_category = "./data/iemocap/emotions/"
-    emo_used = ['fru','neu','ang','exc','sad']
-
+    emo_used = ['fru', 'neu', 'ang', 'exc', 'sad', 'hap']
     train = []
     val = []
     test = []
