@@ -1,0 +1,12 @@
+
+combine ASR and emotion detection (speech and sentence)
+
+visualization - color of text generated
+
+
+
+1. what kind of rules?
+2. what kind of ML algorithms?
+3. why output is upper case letters? isn't upper/lower case also one of the rules?
+4. what do you mean by you have to rewrite your code for different rules for preprocessing?
+5. does the rule also take syntactic structure into account?

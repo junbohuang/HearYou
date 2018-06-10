@@ -16,7 +16,7 @@ echo "python3 environment activated!"
 # prepare testing Data
 echo "Prepare data for testing"
 
-python3 ./Conceptor/Emotion/PrepTestData.py ../../data/iemocap/wav_test
+python3 ./Conceptor/Emotion/PrepTestData.py ./data/iemocap/wav_test
 
 # switch to python2 environment.
 echo "switching to python2 environment."
@@ -41,7 +41,7 @@ python3 ./Conceptor/Emotion/Annotate.py
 
 echo "getting accuracy ..."
 
-python3 accuracy.py
+python3 ./infrastructure/accuracy.py
 
 source deactivate 
 

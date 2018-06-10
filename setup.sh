@@ -6,7 +6,7 @@ echo "python3 environment activated!"
 
 echo "Setting up..."
 
-python3 basic_setup.py
+python3 ./infrastructure/basic_setup.py
 
 source deactivate 
 
